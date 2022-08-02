@@ -41,7 +41,7 @@ Java ile klavyeden girilen N tane sayma sayısından en büyük ve en küçük s
 
       }
     }
-
+https://app.patika.dev/ahmetfurkan
 
 
 
