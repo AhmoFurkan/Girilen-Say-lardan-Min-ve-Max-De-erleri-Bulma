@@ -19,8 +19,7 @@ Java ile klavyeden girilen N tane sayma sayısından en büyük ve en küçük s
             if (y == 1) {
                 max = number;
                 min = number;
-                System.out.println(max);
-                System.out.println(min);
+              
             }
 
 
